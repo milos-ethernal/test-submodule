@@ -1,0 +1,4 @@
+[submodule "private-join-and-compute"]
+	path = private-join-and-compute
+	url = https://github.com/milos-ethernal/private-join-and-compute.git
+	branch = add-computation-id
